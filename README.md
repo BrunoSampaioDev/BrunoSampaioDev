@@ -8,7 +8,7 @@
   <img src="http://views.whatilearened.today/views/github/BrunoSampaioDev/views.svg" />
   <img src="https://img.shields.io/badge/Front%20End-React-blue" />
   <img src="https://img.shields.io/badge/Back%20End-Node%20JS-green" />
-  <img src="https://img.shields.io/badge/Curto%20Muito-Ruby%On%Rails-red" />
+  <img src="https://img.shields.io/badge/Curto%20Muito-Ruby%20On%20Rails-red" />
   <a href="https://github.com/BrunoSampaioDev/">
     <img src="https://img.shields.io/github/followers/BrunoSampaioDev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
