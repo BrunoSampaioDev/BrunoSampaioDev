@@ -8,6 +8,7 @@
   <img src="http://views.whatilearened.today/views/github/BrunoSampaioDev/views.svg" />
   <img src="https://img.shields.io/badge/Front%20End-React-blue" />
   <img src="https://img.shields.io/badge/Back%20End-Node%20JS-green" />
+  <img src="https://img.shields.io/badge/Curto%20Muito-Ruby-red" />
   <a href="https://github.com/BrunoSampaioDev/">
     <img src="https://img.shields.io/github/followers/BrunoSampaioDev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
@@ -17,8 +18,8 @@
 </p>
 
 ### Fala Galera, sejam bem-vindos ao meu GitHub 👋
-
-<br/>Meu nome é Bruno, E estou na formação <img src="https://img.shields.io/badge/Full%20Stack-RESILIA-yellow" />.
+                                            
+<br/>Meu nome é Bruno, E estou na formação < a href="https://www.resilia.work/"><img src="https://img.shields.io/badge/Full%20Stack-RESILIA-yellow" /></a>.
 
 
 
