@@ -19,7 +19,7 @@
 
 ### Fala Galera, sejam bem-vindos ao meu GitHub 👋
                                             
-<br/>Meu nome é Bruno, E estou na formação <a href="https://www.resilia.work/"><img src="https://img.shields.io/badge/Full%20Stack-RESILIA-yellow" /></a>.
+<br/>Meu nome é Bruno, E estou na formação <a href="https://www.resilia.work/"><img src="https://img.shields.io/badge/Full%20Stack-RESILIA-yellow" /></a>
 
 
 
@@ -32,4 +32,4 @@
   </table>
 </center>
 
-<br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn e me seguir aqui no GitHub.
+<br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn e me seguir aqui no GitHub!
