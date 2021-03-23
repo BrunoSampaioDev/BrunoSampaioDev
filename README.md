@@ -16,7 +16,7 @@
 
 ### Fala Galera, sejam bem-vindos ao meu GitHub 👋
                                             
-<br/>Meu nome é Bruno, Atualmente sou aluno da Rocketseat na Trilha ReactJS <a href="https://rocketseat.com.br/"><img src="https://img.shields.io/badge/Rocketseat-purple" /></a>
+<br/>Meu nome é Bruno, Atualmente sou aluno da <a href="https://rocketseat.com.br/"><img src="https://img.shields.io/badge/Rocketseat-purple" /></a> na Trilha ReactJS 
 
 
 
