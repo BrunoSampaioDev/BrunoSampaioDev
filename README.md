@@ -8,9 +8,7 @@
   <img src="http://views.whatilearened.today/views/github/BrunoSampaioDev/views.svg" />
   <img src="https://img.shields.io/badge/Front%20End-React-blue" />
   <img src="https://img.shields.io/badge/Back%20End-Node%20JS-green" />
-  <a href="https://github.com/BrunoSampaioDev/">
-    <img src="https://img.shields.io/github/followers/BrunoSampaioDev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
-  </a>
+  
   <a href="https://github.com/BrunoSampaioDev?tab=repositories">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
   </a>
@@ -18,7 +16,7 @@
 
 ### Fala Galera, sejam bem-vindos ao meu GitHub 👋
                                             
-<br/>Meu nome é Bruno, Atualmente sou aluno da Rocketseat na Trilha ReactJS <a href="https://rocketseat.com.br/"><img src="https://img.shields.io/badge/Full%20Stack-RESILIA-purple" /></a>
+<br/>Meu nome é Bruno, Atualmente sou aluno da Rocketseat na Trilha ReactJS <a href="https://rocketseat.com.br/"><img src="https://img.shields.io/badge/Rocketseat-purple" /></a>
 
 
 
